@@ -10,11 +10,8 @@ namespace Git_Practise
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Day after weekend_Git Practise");
-=======
-            Console.WriteLine("Day after weekend_hello world");
->>>>>>> master
-        }
+           Console.WriteLine("Day after weekend_Git Practise_Day1");
+
+         }
     }
 }
