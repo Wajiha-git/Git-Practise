@@ -11,7 +11,7 @@ namespace Git_Practise
         static void Main(string[] args)
         {
 
-           Console.WriteLine("Day after weekend_Git Practise_Day10");
+           Console.WriteLine("Day after weekend_Git Practise_Day11");
 
          
 
